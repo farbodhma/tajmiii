@@ -1,0 +1,14 @@
+how file work:
+
+there is a file that named groups.json
+in this file you gonna have "user_phone_number":"full_storage_file_path" for all users
+and you can find that full data from that user storaged in which file in "users" folder
+
+this gonna make your Order better
+
+because you dont need to check all users for finding or editing or adding new user
+and it's can also handle a lot of datas
+
+there is a $userFileLimit in index.php file that you can customize it at first and it's
+gonna set that how many users data gonna storage on any file in users folder
+but you can just edit this at first, and after storage any it's cant edit anymore
